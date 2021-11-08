@@ -19,7 +19,7 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg' width = "35">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg' width = "35">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' width = "35">
 
   </div>
 
