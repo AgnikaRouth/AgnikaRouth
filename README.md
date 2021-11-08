@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Cloud Databases and Full Stack Development  
 - 📫 How to reach me : LinkediIn : www.linkedin.com/in/agnika-routh
 
+![](https://komarev.com/ghpvc/?username=AgnikaRouth)
+
+
 
 [![Agnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnikaRouth&show_icons=true&theme=radical)](https://github.com/AgnikaRouth/github-readme-stats)
 
