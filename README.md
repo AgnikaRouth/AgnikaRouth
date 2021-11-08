@@ -8,7 +8,7 @@
 🧰 Tech Stack
 
 <div align="left">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg' width = "35">
+  ![](https://developer.android.com/)<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg' width = "35"> 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg' width = "35">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width = "35">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width = "35">
