@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AgnikaRouth
 - 👀 I’m interested in Android Apps and Website Development  
 - 🌱 I’m currently learning Cloud Databases and Full Stack Development  
-- 📫 How to reach me : LinkediIn : www.linkedin.com/in/agnika-routh
+- 📫 How to reach me : LinkedIn : www.linkedin.com/in/agnika-routh
 
 ---
 
@@ -17,6 +17,9 @@
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' width = "35">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg' width = "35">
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-plain.svg' width = "35">
 
   </div>
 
