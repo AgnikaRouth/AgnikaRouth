@@ -4,7 +4,7 @@
 - 📫 How to reach me : LinkediIn : www.linkedin.com/in/agnika-routh
 
 
-[![Agnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnikaRouth)](https://github.com/AgnikaRouth/github-readme-stats)
+[![Agnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnikaRouth&show_icons=true&theme=radical)](https://github.com/AgnikaRouth/github-readme-stats)
 
 
 <!---
