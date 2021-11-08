@@ -6,6 +6,9 @@
 
 [![Agnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnikaRouth&show_icons=true&theme=radical)](https://github.com/AgnikaRouth/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AgnikaRouth)](https://github.com/AgnikaRouth/github-readme-stats)
+
+
 
 <!---
 AgnikaRouth/AgnikaRouth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
