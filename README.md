@@ -3,23 +3,15 @@
 - 🌱 I’m currently learning Cloud Databases and Full Stack Development  
 - 📫 How to reach me : LinkediIn : www.linkedin.com/in/agnika-routh
 
-##Tech Stack
-
-<div align="left">
-  <img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react-icon.svg"/>
-  <img width="35" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/bootstrap.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/eslint.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg"/>
-  <img width="55" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg"/>
-</div>
-
-
 ---
 
-🧰 Toolbox
+🧰 Tech Stack
 
 <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width = "35">
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' width = "35">
 
 
 
