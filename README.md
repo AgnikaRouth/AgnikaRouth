@@ -19,7 +19,7 @@
 
 🧰 Toolbox
 
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/android-original.svg'>
+<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg'>
 
 
 
