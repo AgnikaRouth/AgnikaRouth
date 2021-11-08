@@ -15,26 +15,41 @@
     <a href="https://angularjs.org/">
       <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg' width = "35">
     </a>
+    <a href="https://reactjs.org/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width = "35">
+    </a>
+     <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width = "35">
+    </a>
+    <a href="https://www.w3schools.com/css/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width = "35">
+    </a>
+    <a href="https://getbootstrap.com/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' width = "35">
+    </a>
+    <a href="https://www.javascript.com/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' width = "35">
+    </a>
+    <a href="https://www.java.com/en/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg' width = "35">
+    </a>
+    <a href="https://ionicframework.com/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg' width = "35">
+    </a>
+    <a href="https://nodejs.org/en/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg' width = "35">
+    </a>
+    <a href="https://www.npmjs.com/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' width = "35">
+    </a>
+    <a href="https://spring.io/">
+      <img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' width = "35">
+    </a>   
   </p>
-  
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg' width = "35">
-<img src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' width = "35">
-
   </div>
 
 
 ---
-
-
 
 [![Agnika's GitHub stats](https://github-readme-stats.vercel.app/api?username=AgnikaRouth&show_icons=true&theme=radical)](https://github.com/AgnikaRouth/github-readme-stats)
 
