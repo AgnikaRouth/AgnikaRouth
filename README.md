@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AgnikaRouth
-- 👀 I’m interested in Android Apps and Website Development  
+- 👀 I’m interested in Website App Development
+- 🤓 Working as a Front-end developer with Angular 
 - 🌱 I’m currently learning Cloud Databases and Full Stack Development  
 - 📫 How to reach me : LinkedIn : www.linkedin.com/in/agnika-routh
 
